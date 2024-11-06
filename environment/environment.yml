@@ -1,0 +1,14 @@
+name: andani_arm_movements
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - mne
+    - pandas
+    - nixio
+    - neo
+    - quantities
+    - matplotlib
+    - numpy
+    - scipy
+    - ipykernel
